@@ -38,11 +38,11 @@
     </div>
   </div>
   <div class="study-area">
-    <h5 class="fw-bold mb-3">Phòng học tập chung</h5>
-    <button class="btn btn-light mb-4">Tạo phòng tập chung</button>
+    <h5 class="fw-bold mb-3">Phòng học tập trung</h5>
+    <button class="btn btn-light mb-4">Tạo phòng tập trung</button>
 
     <div class="study-card">
-      <h6 class="fw-bold">Phòng học tập chung 1</h6>
+      <h6 class="fw-bold">Phòng học tập trung 1</h6>
       <p>20 người trực tuyến</p>
       <div class="d-flex flex-wrap mb-3">
         <img src="/images/avt1.jpg" class="rounded-circle me-2" width="40" height="40">
@@ -55,7 +55,7 @@
     <div class="row">
       <div class="col-md-6">
         <div class="study-card">
-          <h6 class="fw-bold">Phòng học tập chung 2</h6>
+          <h6 class="fw-bold">Phòng học tập trung 2</h6>
           <p>16 người trực tuyến</p>
           <div class="d-flex flex-wrap mb-3">
             <img src="/images/avt2.jpg" class="rounded-circle me-2" width="40" height="40">
@@ -66,7 +66,7 @@
       </div>
       <div class="col-md-6">
         <div class="study-card">
-          <h6 class="fw-bold">Phòng học tập chung 3</h6>
+          <h6 class="fw-bold">Phòng học tập trung 3</h6>
           <p>16 người trực tuyến</p>
           <div class="d-flex flex-wrap mb-3">
             <img src="/images/avt3.jpg" class="rounded-circle me-2" width="40" height="40">
