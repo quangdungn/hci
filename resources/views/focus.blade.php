@@ -62,7 +62,7 @@
 </head>
 <body>
   <div class="fullscreen-header">CoStudy</div>
-  <div class="close-button" onclick="window.location.href='/room';">&times;</div>
+  <div class="close-button" onclick="window.location.href='/room/show';">&times;</div>
 
   <div class="grid-container">
     <div class="grid">
