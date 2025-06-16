@@ -50,8 +50,5 @@ Route::view('/calendar', 'calendar');
 // Trang Profile
 Route::view('/profile', 'profile');
 
-// Trang “Show” với chat + participants
 Route::view('/room/show', 'show')->name('room.show');
-
-// Trang full-screen “Focus”
-Route::view('/room', 'focus')->name('room.focus');
+Route::view('/room',      'focus')->name('room.focus');
