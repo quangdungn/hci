@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 // Trang chủ (Home)
-Route::view('/', 'home');
+Route::view('/', 'home')->name('home');
 
 // Trang danh sách nhóm
 Route::get('/groups', function () {
@@ -49,3 +49,9 @@ Route::view('/calendar', 'calendar');
 
 // Trang Profile
 Route::view('/profile', 'profile');
+
+// Trang “Show” với chat + participants
+Route::view('/room/show', 'show')->name('room.show');
+
+// Trang full-screen “Focus”
+Route::view('/room', 'focus')->name('room.focus');
