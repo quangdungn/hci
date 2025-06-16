@@ -50,5 +50,5 @@ Route::view('/calendar', 'calendar');
 // Trang Profile
 Route::view('/profile', 'profile');
 
-Route::view('/room/show', 'show')->name('room.show');
-Route::view('/room',      'focus')->name('room.focus');
+Route::view('/room/show', 'show')->name('show');
+Route::view('/room',      'focus')->name('focus');

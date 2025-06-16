@@ -68,7 +68,7 @@
                 @endforeach
               </div>
               {{-- resources/views/home.blade.php --}}
-              <a href="{{ route('room.show') }}"
+              <a href="{{ route('show') }}"
                 class="btn btn-primary w-50 mt-auto">
                 Tham Gia
               </a>
